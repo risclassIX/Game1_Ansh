@@ -1,6 +1,7 @@
 import streamlit as st
 import random
 
+
 # Ye list ek database ka simulation hai jisme existing usernames store hain
 # Asal project me ye usernames database me save hote hain
 existing_usernames = []  # Example ke liye kuch usernames
