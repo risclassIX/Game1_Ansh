@@ -28,7 +28,7 @@ else:
 
 # Show computer's choice
 st.write(f"Computer Choosen: {dict2[c]}")
-st.write(f"You Choosen: {dict1[u]}")
+st.write(f"You Choosen: {u}")
 st.write(f"Thank You!    ANSH")
 
 fd = st.selectbox("How do you like this game?Choose in between 1 to 5 Star",(1,2,3,4,5))
